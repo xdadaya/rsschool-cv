@@ -11,6 +11,7 @@ seriously. I always try to create scalable and understandable solutions.
 * HTML5
 * CSS3
 * JavaScript (ES6)
+* Git
 * NodeJS
 * ReactJS
 ### Code examples
