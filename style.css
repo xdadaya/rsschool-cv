@@ -1,0 +1,34 @@
+body{
+    margin: 0 auto;
+    max-width: 1000px;
+    background-image: linear-gradient(to right, rgba(148, 139, 201, 0.61), rgb(211, 148, 148));
+}
+header{
+    display:flex;
+}
+header > div > img{
+    max-width: 200px;
+    height: auto;
+}
+.title{
+    margin: 0 auto;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer > a > img {
+    width: 100px;
+    height: auto;
+}
